@@ -1,0 +1,275 @@
+$font-stack: 'Montserrat', 'Bebas Neue', 'Inter';
+$font-color: black;
+
+.deshisvg {
+    justify-content: start;
+    margin-top: 50px;
+    margin-left: 156px;
+}
+
+.documentation {
+    font-style: 'Montserrat';
+    font-weight: 600;
+    font-weight: 25px;
+    font-size: 18px;
+    margin-top: 65px;
+    padding: 0 4%;
+    padding-bottom: 10px;
+    font-family: 'Montserrat';
+}
+
+.divtop {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: flex;
+}
+
+.getstart {
+    border: 2px solid;
+    border-color: black;
+    font-style: 'Inter';
+    justify-self: right;
+    border-radius: 63px;
+    font-family: 'Inter';
+}
+
+.top2 {
+    padding-left: 50%;
+    margin-top: 50px;
+}
+
+.ppfub {
+    flex-direction: row;
+    display: flex;
+    font-size: 64px;
+    padding-left: 7%;
+    margin: none;
+    position: relative;
+    font-family: 'Bebas Neue';
+    padding-right: 0%;
+}
+
+.pp {
+    color: blue;
+    padding-top: 5%;
+}
+
+.f {
+    padding-left: 1%;
+    padding-top: 5%;
+}
+
+.yb2 {
+    padding-left: 7%;
+    font-size: 64px;
+    margin-top: 5px;
+    position: relative;
+    font-family: 'Bebas Neue';
+}
+
+.middlesvg {
+    padding-left: 50%;
+    position: absolute;
+}
+
+.divmiddle {
+    position: relative;
+    border: dashed 3px blue;
+    border-radius: 15px;
+    max-width: 55%;
+    margin-top: 30px;
+}
+
+.accept {
+    size: 16px;
+    max-width: 750px;
+    padding-left: 7%;
+    padding-top: 3%;
+    font-family: 'Montserrat';
+    overflow: visible;
+}
+
+.button1 {
+    height: 60px;
+    width: 179px;
+    border: blue;
+    border-radius: 15px;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 20px;
+    display: flex;
+}
+
+.advantages {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    font-family: 'Inter';
+    color: blue;
+}
+
+.advantages_element1 {
+    border: 1px;
+    border-color: white;
+    background-color: #EFF4FC;
+    border-radius: 15px;
+    max-width: 183px;
+}
+
+.advantages_header1 {
+    justify-content: space-between;
+    display: flex;
+}
+
+.advantages_header_decor1 {
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+.advantages_content1 {
+    padding: 15px;
+}
+
+.advantages_header_titul1 {
+    padding-right: 50px;
+    font-size: 24px;
+}
+
+.advantages_element2 {
+    border: 1px;
+    border-color: white;
+    background-color: #EFF4FC;
+    border-radius: 15px;
+    max-width: 183px;
+    color: blue;
+    font-family: 'Inter';
+}
+
+.advantages_header2 {
+    justify-content: space-between;
+    display: flex;
+}
+
+.advantages_header_decor2 {
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+.advantages_content2 {
+    padding: 15px;
+}
+
+.advantages_header_titul2 {
+    padding-right: 50px;
+    font-size: 24px;
+}
+
+.advantages_element3 {
+    border: 1px;
+    border-color: white;
+    background-color: #EFF4FC;
+    border-radius: 15px;
+    max-width: 183px;
+    color: blue;
+    font-family: 'Inter';
+}
+
+.advantages_header3 {
+    justify-content: space-between;
+    display: flex;
+}
+
+.advantages_header_decor3 {
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+.advantages_content3 {
+    padding: 15px;
+}
+
+.advantages_header_titul3 {
+    padding-right: 50px;
+    font-size: 24px;
+}
+
+.advantages_element4 {
+    border: 1px;
+    border-color: white;
+    background-color: #EFF4FC;
+    border-radius: 15px;
+    max-width: 183px;
+    color: blue;
+    font-family: 'Inter';
+}
+
+.advantages_header4 {
+    justify-content: space-between;
+    display: flex;
+}
+
+.advantages_header_decor4 {
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+.advantages_content4 {
+    padding: 15px;
+}
+
+.advantages_header_titul4 {
+    padding-right: 50px;
+    font-size: 24px;
+}
+
+.hero_decor {
+    display: flex;
+    justify-content: end;
+}
+
+.hero_decor8 {
+    position: relative;
+    z-index: 1;
+}
+
+.hero_decor1 {
+    position: absolute;
+    z-index: 3;
+}
+
+.hero_decor2 {
+    position: absolute;
+    z-index: 3;
+}
+
+.hero_decor3 {
+    position: absolute;
+    z-index: 3;
+}
+
+.hero_decor4 {
+    position: absolute;
+    z-index: 3;
+}
+
+.hero_decor5 {
+    position: absolute;
+    z-index: 3;
+}
+
+.hero_decor6 {
+    position: absolute;
+    z-index: 3;
+}
+
+.hero_decor7 {
+    position: absolute;
+    z-index: 2;
+}
